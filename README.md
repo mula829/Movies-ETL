@@ -9,3 +9,5 @@ This project consists of creating one function that takes in three files:
 -MovieLens rating data
 
 Then performs the ETL process by adding the data to a PostgreSQL database.
+
+<img src="Movies-ETL/movies_query.PNG" width="700">
